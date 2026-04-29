@@ -243,6 +243,8 @@ class: middle
 
 .center.width-100[![](figures/blacksea-results2.png)]
 
+.center[State reconstruction $x$ from satellite observations $y$ of the surface.<br> In the mixing layer, states can be reconstructed, but not in the hypoxic layer.]
+
 .footnote[Credits: [Mangeleer et al](https://arxiv.org/abs/2604.25608), 2026 (arXiv:2604.25608).]
 
 ---
