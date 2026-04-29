@@ -225,7 +225,7 @@ Posterior oxygen maps $p(x|y)$ are recovered from surface satellite observations
 
 .center.width-100[![](figures/blacksea-results.png)]
 
-.footnote[Credits: Work in progress with Victor Mangeleer and Marilaure Grégoire.]
+.footnote[Credits: [Mangeleer et al](https://arxiv.org/abs/2604.25608), 2026 (arXiv:2604.25608).]
 
 ???
 
@@ -234,6 +234,16 @@ Fortunately, good enough physical models of the Black Sea exist, which can be us
 Our preliminary results show that we can recover realistic 3d oxygen maps from satellite observations of the surface. 
 
 More work is needed to validate these results and to improve the model, but we are optimistic that this approach can provide valuable insights into the dynamics of hypoxia in the Black Sea.
+
+---
+
+class: middle
+
+.avatars[![](figures/faces/victor.jpg)![](figures/faces/mg.png)]
+
+.center.width-100[![](figures/blacksea-results2.png)]
+
+.footnote[Credits: [Mangeleer et al](https://arxiv.org/abs/2604.25608), 2026 (arXiv:2604.25608).]
 
 ---
 
